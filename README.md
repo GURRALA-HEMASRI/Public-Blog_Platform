@@ -1,4 +1,4 @@
-# 📝 Blog App (React + Django)
+# 📝 Public-Blog Platform (React + Django)
 
 A full-stack blog application built using React (Frontend) and Django REST Framework (Backend). Users can create, read, update, and delete blog posts.
 
